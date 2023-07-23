@@ -86,6 +86,8 @@ https://github.com/MariMaxVR/GeekBrains_Final_Developer_Project/tree/main/System
 
 https://github.com/MariMaxVR/GeekBrains_Final_Developer_Project/blob/main/System/src/Controller/Counter.java
 
+![Task Program](/tasks/Task%20Program.png)
+
 ## **Результаты прохождения тестирования:**
 ![Certificate](/images/Certificate.png)
 ![TestResult](/images/TestResult.png)
